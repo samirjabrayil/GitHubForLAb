@@ -6,8 +6,9 @@
         {
             int i = 0;
             while (i < 100)
-                Console.WriteLine(i++); 
+                Console.WriteLine(i++);
             //1den yuze kimi ededler (yeni i < 100)
+            Console.WriteLine("hello master");
 
             }
             
