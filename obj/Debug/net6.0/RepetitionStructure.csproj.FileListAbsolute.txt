@@ -1,0 +1,15 @@
+D:\ders\RepetitionStructure\bin\Debug\net6.0\RepetitionStructure.exe
+D:\ders\RepetitionStructure\bin\Debug\net6.0\RepetitionStructure.deps.json
+D:\ders\RepetitionStructure\bin\Debug\net6.0\RepetitionStructure.runtimeconfig.json
+D:\ders\RepetitionStructure\bin\Debug\net6.0\RepetitionStructure.dll
+D:\ders\RepetitionStructure\bin\Debug\net6.0\RepetitionStructure.pdb
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.csproj.AssemblyReference.cache
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.AssemblyInfoInputs.cache
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.AssemblyInfo.cs
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.csproj.CoreCompileInputs.cache
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.dll
+D:\ders\RepetitionStructure\obj\Debug\net6.0\refint\RepetitionStructure.dll
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.pdb
+D:\ders\RepetitionStructure\obj\Debug\net6.0\RepetitionStructure.genruntimeconfig.cache
+D:\ders\RepetitionStructure\obj\Debug\net6.0\ref\RepetitionStructure.dll
